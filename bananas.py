@@ -1,2 +1,1 @@
-print("j'aime les banaes")
-
+print("j'aime les bananes")
